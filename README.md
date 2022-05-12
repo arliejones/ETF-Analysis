@@ -66,6 +66,11 @@ For the program to run correctly, the user must make sure that all libraries and
 
 4. Deploy the notebook as a web application
 
+The when deployed as a web application via Voila, the program will look like this:
+
+https://user-images.githubusercontent.com/101435438/168150800-e9b433e2-db74-4049-bccc-199d55291ee9.mov
+
+
 ----
 
 ## Contributors
