@@ -1,3 +1,6 @@
+![](Resources/ETF_image.png)
+
+
 # Exchange Trade Fund Analysis
 
 This program builds a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF for potential investment.
